@@ -33,6 +33,6 @@ Neste artigo, explorei a IA na produção de artigos e imagens, e aprimorei suas
 <br><br>
 -------------
 
-💻 **Conteúdo gerado via ChatGPT**
+💻 **Via ChatGPT**
 
 ⌨️ _Com ❤️ por_ [_Mariana Cruz_](https://github.com/mari-coding)
