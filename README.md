@@ -1,5 +1,7 @@
 # PROJETO E-BOOK GERADO POR IA
 
+<br><br>
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de Inteligência artificial generativa. Os prompts seguem abaixo.
 
 📚[_Cique aqui para ler_](https://www.canva.com/design/DAGOUge90nw/6t6_eyo6iECt1PfLt2C1Ow/view?utm_content=DAGOUge90nw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
@@ -15,6 +17,7 @@ A criação de artigos por IA vai além da simples automatização de textos; el
 Além disso, a IA também revolucionou a criação de imagens. Através de modelos geradores, é possível criar imagens únicas e personalizadas, que capturam a essência de um tema ou conceito. Seja para ilustrar um artigo, compor uma campanha publicitária ou enriquecer um site, as imagens geradas por IA trazem um novo nível de criatividade e eficiência ao processo de design.
 
 Neste artigo, explorei a IA na produção de artigos e imagens, e aprimorei suas estratégias de conteúdo.
+
 <br><br>
 ----------------
 
