@@ -17,7 +17,6 @@ Além disso, a IA também revolucionou a criação de imagens. Através de model
 Neste artigo, explorei a IA na produção de artigos e imagens, e aprimorei suas estratégias de conteúdo.
 
 ----------------
-<br><br>
 
 ### 💡Prompts
 
