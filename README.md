@@ -1,6 +1,6 @@
 # PROJETO E-BOOK GERADO POR IA
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de Inteligência artificial generativa. Os prompts seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de _Inteligência artificial generativa_. Os prompts seguem abaixo.
 
 📚[_Cique aqui para ler_](https://www.canva.com/design/DAGOUge90nw/6t6_eyo6iECt1PfLt2C1Ow/view?utm_content=DAGOUge90nw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
