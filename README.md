@@ -1,3 +1,9 @@
+<p align="center"><img
+
+![alt text](image-1.png)
+
+</p>
+
 # PROJETO E-BOOK GERADO POR IA
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de _Inteligência artificial generativa_. Os prompts seguem abaixo.
@@ -34,8 +40,8 @@ Neste artigo, explorei a IA na produção de artigos e imagens, e aprimorei suas
 
 ### 🛠️ Features
 
-- Conteúdo gerado via ChatGPT
-- Montagem editada através do site [Canva](https://www.canva.com/pt_br/criar/ebooks/)
+- A montagem foi editada no site [Canva](https://www.canva.com/pt_br/criar/ebooks/)
+- A imagem foi gerada na página [Lexica.art](https://www.lexica.art)
 <br><br>
 -------------
 
