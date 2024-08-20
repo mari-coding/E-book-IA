@@ -18,18 +18,24 @@ Neste artigo, explorei a IA na produção de artigos e imagens, e aprimorei suas
 
 ----------------
 
-### 💡Prompts
+ ### 🤖 Tecnologias utilizadas no projeto
+
+- [ChatGpt](https://chat.openai.com/) 
+- [Lexica.art](https://www.lexica.art)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
+
+### 💡 Prompts
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | criar titulo de ebook sobre css com tematica nerd                                                        |
 | Conteúdo | fazer texto com os principais seletores e exemplos de códigos em contextos reais |
 
-
-### 🛠️Features
+### 🛠️ Features
 
 - Conteúdo gerado via ChatGPT
-- Montagem editada através do site Canva
+- Montagem editada através do site [Canva](https://www.canva.com/pt_br/criar/ebooks/)
 <br><br>
 -------------
 
