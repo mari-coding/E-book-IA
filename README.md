@@ -1,7 +1,6 @@
 <p align="center"><img
 
-![alt text](image-1.png)
-
+![alt text](image.png))
 </p>
 
 # PROJETO E-BOOK GERADO POR IA
@@ -10,7 +9,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 📚[_Cique aqui para ler_](https://www.canva.com/design/DAGOUge90nw/6t6_eyo6iECt1PfLt2C1Ow/view?utm_content=DAGOUge90nw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<br><br>
+----------------
 
 ## Introdução: O Poder da IA na Criação de Conteúdo
 
@@ -47,4 +46,4 @@ Neste artigo, explorei a IA na produção de artigos e imagens, e aprimorei suas
 
 💻 **Via ChatGPT**
 
-⌨️ _Com ❤️ por_ [_Mariana Cruz_](https://github.com/mari-coding)
+👨‍💻 _Com ❤️ por_ [_Mariana Cruz_](https://github.com/mari-coding)
